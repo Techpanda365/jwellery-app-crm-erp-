@@ -8,7 +8,7 @@ import EditPurityModal from "./EditPurityModal";
 const initialPurities = [
   { 
     id: 1, 
-    name: "24K Gold", 
+    name: "24K", 
     stoneName: "Diamond", 
     metalType: "Gold",
     percentage: 99.9,
@@ -17,7 +17,7 @@ const initialPurities = [
   },
   { 
     id: 2, 
-    name: "925 Sterling Silver", 
+    name: "925", 
     stoneName: "Ruby", 
     metalType: "Silver",
     percentage: 92.5,
